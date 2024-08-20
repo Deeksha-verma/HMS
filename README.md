@@ -1,2 +1,2 @@
 # live web application link : 
-flyinghotel.rf.gd
+http://flyinghotel.rf.gd
